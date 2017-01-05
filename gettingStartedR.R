@@ -1,0 +1,13 @@
+x=10
+y=9
+x+y
+x*y
+x-y
+x/y
+x^2+y^2
+sqrt(y)
+log(10)
+log2(4)
+abs(-25)
+x1x<-"hem"
+yy<-"praasnth"
